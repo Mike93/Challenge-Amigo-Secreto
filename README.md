@@ -17,8 +17,8 @@
 ## 🖥️ Tecnologías utilizadas
 
 - **HTML5** para la estructura de la interfaz.
-- **CSS3** para estilos, tipografía y diseño responsivo.
-- **JavaScript (ES6)** para la lógica del juego y manipulación del DOM.
+- **CSS** para estilos, tipografía y diseño responsivo.
+- **JavaScript** para la lógica del juego.
 - **Google Fonts** (Inter y Merriweather) para mejorar la apariencia del texto.
 
 ## 📜 Archivos clave
@@ -44,14 +44,3 @@ Incluye la lógica:
 - `sortearAmigo()` → Escoge un amigo al azar y lo muestra.
 - `reiniciarJuego()` → Limpia todo para reiniciar.
 - `escapeHtml()` → Previene inyección de HTML en los nombres.
-
-## 📷 Vista previa
-
-![Vista previa del juego](assets/amigo-secreto.png)
-
-## ⚙️ Instalación y uso
-
-1. **Clonar el repositorio**
-   ```bash
-   git clone https://github.com/tuusuario/juego-amigo-secreto.git
-   cd juego-amigo-secreto
